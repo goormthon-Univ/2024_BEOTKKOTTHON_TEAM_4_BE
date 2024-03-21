@@ -1,10 +1,10 @@
 package com.vacgom.backend.presentation.inoculation
 
-import com.vacgom.backend.application.inoculation.dto.InoculationService
-import com.vacgom.backend.application.inoculation.dto.request.DiseaseNameRequest
-import com.vacgom.backend.application.inoculation.dto.response.InoculationDetailResponse
-import com.vacgom.backend.application.inoculation.dto.response.InoculationSimpleResponse
 import com.vacgom.backend.global.security.annotation.AuthId
+import com.vacgom.backend.inoculation.application.InoculationService
+import com.vacgom.backend.inoculation.application.dto.request.DiseaseNameRequest
+import com.vacgom.backend.inoculation.application.dto.response.InoculationDetailResponse
+import com.vacgom.backend.inoculation.application.dto.response.InoculationSimpleResponse
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*
 import java.util.*

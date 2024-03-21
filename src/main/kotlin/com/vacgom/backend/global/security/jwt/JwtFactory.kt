@@ -1,9 +1,9 @@
 package com.vacgom.backend.global.security.jwt
 
-import com.vacgom.backend.domain.member.Member
 import com.vacgom.backend.global.exception.error.BusinessException
 import com.vacgom.backend.global.security.exception.AuthError
 import com.vacgom.backend.global.security.model.CustomUser
+import com.vacgom.backend.member.domain.Member
 import io.jsonwebtoken.*
 import io.jsonwebtoken.io.Decoders
 import io.jsonwebtoken.security.Keys

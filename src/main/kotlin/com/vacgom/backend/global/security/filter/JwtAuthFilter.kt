@@ -1,6 +1,6 @@
 package com.vacgom.backend.global.security.filter
 
-import com.vacgom.backend.domain.auth.constants.Role.ROLE_GUEST
+import com.vacgom.backend.auth.domain.constants.Role.ROLE_GUEST
 import com.vacgom.backend.global.security.jwt.JwtFactory
 import com.vacgom.backend.global.security.model.CustomUser
 import jakarta.servlet.FilterChain
