@@ -15,10 +15,7 @@
 
 ## 🚀&nbsp;&nbsp;Goal&nbsp;&nbsp;🚀
 
-	나는 백곰이에요.
-	귀여운 백곰이죠.
-	상당히 귀엽지 않나요?
-
+20대 백신 접종률 향상을 위한 백신 조회 및 추천 서비스
 <br/>
 
 ## 🔧&nbsp;&nbsp;Tech Stack&nbsp;&nbsp;🔧
