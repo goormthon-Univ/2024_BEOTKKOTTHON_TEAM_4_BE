@@ -15,8 +15,8 @@
 
 ## 🚀&nbsp;&nbsp;Goal&nbsp;&nbsp;🚀
 
-20대 백신 접종률 향상을 위한 백신 조회 및 추천 서비스
-[https://vacgom.co.kr](https://vacgom.co.kr)
+20대 백신 접종률 향상을 위한 백신 조회 및 추천 서비스<br>
+[https://vacgom.co.kr](https://vacgom.co.kr)<br>
 크롬 브라우저와 사파리 브라우저에 최적화된 모바일 퍼스트 뷰
 
 <br/>
